@@ -1,0 +1,15 @@
+f:\МОЁ\ШАГ\ПРОГРАММИРОВАНИЕ\GIT\WPF\Development-of-applications-using-WPF-Containers\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+f:\МОЁ\ШАГ\ПРОГРАММИРОВАНИЕ\GIT\WPF\Development-of-applications-using-WPF-Containers\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+f:\МОЁ\ШАГ\ПРОГРАММИРОВАНИЕ\GIT\WPF\Development-of-applications-using-WPF-Containers\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+f:\МОЁ\ШАГ\ПРОГРАММИРОВАНИЕ\GIT\WPF\Development-of-applications-using-WPF-Containers\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+f:\МОЁ\ШАГ\ПРОГРАММИРОВАНИЕ\GIT\WPF\Development-of-applications-using-WPF-Containers\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+f:\МОЁ\ШАГ\ПРОГРАММИРОВАНИЕ\GIT\WPF\Development-of-applications-using-WPF-Containers\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+f:\МОЁ\ШАГ\ПРОГРАММИРОВАНИЕ\GIT\WPF\Development-of-applications-using-WPF-Containers\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+f:\МОЁ\ШАГ\ПРОГРАММИРОВАНИЕ\GIT\WPF\Development-of-applications-using-WPF-Containers\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+f:\МОЁ\ШАГ\ПРОГРАММИРОВАНИЕ\GIT\WPF\Development-of-applications-using-WPF-Containers\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+f:\МОЁ\ШАГ\ПРОГРАММИРОВАНИЕ\GIT\WPF\Development-of-applications-using-WPF-Containers\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+f:\МОЁ\ШАГ\ПРОГРАММИРОВАНИЕ\GIT\WPF\Development-of-applications-using-WPF-Containers\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+f:\МОЁ\ШАГ\ПРОГРАММИРОВАНИЕ\GIT\WPF\Development-of-applications-using-WPF-Containers\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+f:\МОЁ\ШАГ\ПРОГРАММИРОВАНИЕ\GIT\WPF\Development-of-applications-using-WPF-Containers\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+f:\МОЁ\ШАГ\ПРОГРАММИРОВАНИЕ\GIT\WPF\Development-of-applications-using-WPF-Containers\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+f:\МОЁ\ШАГ\ПРОГРАММИРОВАНИЕ\GIT\WPF\Development-of-applications-using-WPF-Containers\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
